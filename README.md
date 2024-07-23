@@ -1,1 +1,1 @@
-# uzbek-english-500-words-dictionary
+# uzbek-english-100-words-dictionary
