@@ -23,7 +23,7 @@
     ("Farmer", "Dehqon"), ("Worker", "Ishchi"), ("Manager", "Menejer"),
     ("Boss", "Boshliq"), ("Cook", "Oshpaz"), ("Baker", "Nonvoy"), ("Tailor", "Tikuvchi"),
     ("Barber", "Soch o'rayotgan"), ("Driver", "Haydovchi"), ("Captain", "Kapitan"),
-    ("President", "Prezident"), ("Minister", "Vazir"), ("Judge", "Sudya"),
+    ("President", "Prezident"), ("Minister", "Vazir"), ("Judge", "Qozi"),
     ("Lawyer", "Advokat"), ("Principal", "Direktor"), ("Janitor", "Farrosh"),
     ("Guard", "Qo'riqchi"), ("Salesperson", "Sotuvchi"), ("Shop", "Do'kon"),
     ("Customer", "Mijoz")
